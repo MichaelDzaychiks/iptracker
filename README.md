@@ -9,6 +9,14 @@ add cloudflare file to that folder
 phxsxng link that knows others ip
 
 
+
+
+
+
+
+
+
+
 other:
 
 @echo off
