@@ -17,7 +17,7 @@ phxsxng link that knows others ip
 
 
 
-other:
+other(run_tracker.bat):
 
 @echo off
 title IP Logger - Flask + LocalXpose
